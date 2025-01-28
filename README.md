@@ -2,7 +2,7 @@
 Benvenuto nel mio repository GutHub. Qui troverai una raccolta di problemi risolti su https://www.hackerrank.com/domains/python .
 
 ## Struttura del Repository
-Il repository è orgenizzato in base alla difficoltà dei problemi, quindi:
+Il repository è organizzato in base alla difficoltà dei problemi, quindi:
 1. **Easy**
 2. **Medium**
 3. **Hard**
